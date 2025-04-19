@@ -73,6 +73,7 @@ function App() {
             religion={religion}
             interests={interests}
             lcStreak={lcStreak}
+            category={category}
             setCurrentStep={setCurrentStep}
           />
         );
